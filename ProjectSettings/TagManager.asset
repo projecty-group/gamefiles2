@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Water
+  - Fish
+  - Lure
+  - Fish_POI
+  - Fish_Exit_POI
+  - CastFromSpot
+  - FishingRod
+  - FishCountText UI
+  - FishBattlePopup UI
+  - FishLost UI
+  - FishCaught UI
+  - CanvasManager UI
+  - CoinExplosionFX
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1989516389
+    locked: 0
+  - name: Player
+    uniqueID: 843410107
+    locked: 0
+  - name: Water
+    uniqueID: 606525131
+    locked: 0
+  - name: Underwater
+    uniqueID: 3507352605
+    locked: 0
+  - name: Fish
+    uniqueID: 3992359181
+    locked: 0
+  - name: UI
+    uniqueID: 2029610791
+    locked: 0
